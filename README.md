@@ -2,8 +2,10 @@
 Excel project for analyzing kickstarter
 
 ## Overview of Project
+Louise who is an up-coming playwright. She wants to start a crowdfunding campaign to help fund her play, Fever. She is estimating a budget of over $10,000. She is hesitant about her first fundraising campaign. She needs our help, as an excel expert to explore the dataset and help her achieving her goals. 
 
 ### Purpose
+In this project, we will be using Excel to be organizing and sorting crowdfunding data and helping her with various analysis, visualizations, and feedback to ensure that she will have a better understanding of campaigns from start to finish.
 
 ## Analysis and Challenges
 The first step of an analysis is to take an initial look at the data. There are various columns such as:
