@@ -27,14 +27,17 @@ readable format. We need to split categories and sub subcategories. creating new
  
  
  3.The pivot table and pivot chart based on outcomes of the “Launch Date”.
- <img width="1157" alt="Theater_Outcomes_v_LaunchDate" src="https://user-images.githubusercontent.com/92646311/163236604-24aaee1c-9e2d-401a-9d81-bb3dc1c824e3.png">
+ <img width="1166" alt="Outcomes_LaunchDate" src="https://user-images.githubusercontent.com/92646311/163267842-24e69860-487f-4660-b854-ace7089e243e.png">
+
 
  
 ### Analysis of Outcomes Based on Launch Date
 
+ <img width="1157" alt="Theater_Outcomes_v_LaunchDate" src="https://user-images.githubusercontent.com/92646311/163236604-24aaee1c-9e2d-401a-9d81-bb3dc1c824e3.png">
 
 
 ### Analysis of Outcomes Based on Goals
+<img width="903" alt="Outcomes_V_Goals" src="https://user-images.githubusercontent.com/92646311/163267921-761d5e4e-7864-441d-a852-9f71926ab3a7.png">
 
 
 ### Challenges and Difficulties Encountered
