@@ -13,7 +13,10 @@ Outcomes column tells us if compaign met its goal.
 Country columns has a list of various countries in which the compaign was started.
 We may notice that the data in the columns need to be converted, Dates, in the 
 readable format. We need to split categories and sub subcategories. creating new Year column based on the Date Created conversion column. New column for Percentage Funded and Average funded. we need to format the dataset by applying conditional formatting, formulas, and filters to display only the specific data that we want to focus on.
+
 1.The pivot table and pivot chart based on outcomes of the “Parent Category”.
+
+![](images/<img width="1195" alt="parent-Category" src="https://user-images.githubusercontent.com/92646311/163236240-d259096b-91b6-4b9b-adba-ac6a96b207bd.png">
 
  
  
