@@ -16,17 +16,19 @@ readable format. We need to split categories and sub subcategories. creating new
 
 1.The pivot table and pivot chart based on outcomes of the “Parent Category”.
 
-![](images/<img width="1195" alt="parent-Category" src="https://user-images.githubusercontent.com/92646311/163236240-d259096b-91b6-4b9b-adba-ac6a96b207bd.png">
+<img width="1195" alt="parent-Category" src="https://user-images.githubusercontent.com/92646311/163236240-d259096b-91b6-4b9b-adba-ac6a96b207bd.png">
 
  
  
  
  2. The pivot table and pivot chart based on outcomes of the “SubCategory”.
- 
+ <img width="1274" alt="subcategory" src="https://user-images.githubusercontent.com/92646311/163236535-395ca7bd-da0a-4143-8005-4fe4f25819f8.png">
+
  
  
  3.The pivot table and pivot chart based on outcomes of the “Launch Date”.
- 
+ <img width="1157" alt="Theater_Outcomes_v_LaunchDate" src="https://user-images.githubusercontent.com/92646311/163236604-24aaee1c-9e2d-401a-9d81-bb3dc1c824e3.png">
+
  
 ### Analysis of Outcomes Based on Launch Date
 
