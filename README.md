@@ -17,18 +17,19 @@ We may notice that the data in the columns need to be converted, Dates, in the
 readable format. We need to split categories and sub subcategories. creating new Year column based on the Date Created conversion column. New column for Percentage Funded and Average funded. we need to format the dataset by applying conditional formatting, formulas, and filters to display only the specific data that we want to focus on.
 
 1.The pivot table and pivot chart based on outcomes of the “Parent Category”.
-
+As we can conslude that "Theather" category had the most most successful outcome.Further, we can use filters to see the outcome for each country.
 <img width="1195" alt="parent-Category" src="https://user-images.githubusercontent.com/92646311/163236240-d259096b-91b6-4b9b-adba-ac6a96b207bd.png">
 
  
- 
- 
  2. The pivot table and pivot chart based on outcomes of the “SubCategory”.
+we create a new Pivot table and pivot chart filtered by subcategory to focus our analysis on an area that is more relevant for Louise. We can visualize that the within the subcategories " Play" was the most successful of all. By filtering for the "US", there were total 3,038 Kickstarter campaigns and the play was the most successful subcategory with 412.For the " Great Britain's " there were 604 Kickstarter campaigns and 238 successful plays.
+![image](https://user-images.githubusercontent.com/92646311/163441220-5ce814a3-96c5-48f7-908b-c5b7b0998982.png)
+
  <img width="1274" alt="subcategory" src="https://user-images.githubusercontent.com/92646311/163236535-395ca7bd-da0a-4143-8005-4fe4f25819f8.png">
 
  
- 
- 3.The pivot table and pivot chart based on outcomes of the “Launch Date”.
+  3.The pivot table and pivot chart based on outcomes of the “Launch Date”.
+  
  <img width="1166" alt="Outcomes_LaunchDate" src="https://user-images.githubusercontent.com/92646311/163267842-24e69860-487f-4660-b854-ace7089e243e.png">
 
 
