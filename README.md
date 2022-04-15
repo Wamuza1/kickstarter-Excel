@@ -57,9 +57,11 @@ Analyzing and visualizing the Kickstarter campaign with various graphs and filte
 2. In October,pretty much nothing is canceled, outcomes were either failed or successful.
 
 - What can you conclude about the Outcomes based on Goals?
+
 From ranges $35,000 to $39,000 and from $40,000 to $44,999 the successful rate is better than other ranges excluded less than $1,000 range and $1,000 to $4,999.
 
 - What are some limitations of this dataset?
+The city names should also be included in dataset that in which city the "Play" campaign successful rate was high. 
 
 - What are some other possible tables and/or graphs that we could create?
-
+We can perform statistical analysis based on the outcomes of Goal and Pledge columns, successful VS failed. 
