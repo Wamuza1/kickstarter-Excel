@@ -61,7 +61,7 @@ Analyzing and visualizing the Kickstarter campaign with various graphs and filte
 From ranges $35,000 to $39,000 and from $40,000 to $44,999 the successful rate is better than other ranges excluded less than $1,000 range and $1,000 to $4,999.
 
 - What are some limitations of this dataset?
-The city names should also be included in dataset that in which city the "Play" campaign successful rate was high. 
+The cities names should also be included in dataset. 
 
 - What are some other possible tables and/or graphs that we could create?
-We can perform statistical analysis based on the outcomes of Goal and Pledge columns, successful VS failed. 
+We can perform statistical analysis based on the outcomes of Goal and Pledge columns, successful VS failed.Also, we can also uncover the campaign length.
