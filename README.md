@@ -37,24 +37,28 @@ As we can conslude that "Theather" category had the most most successful outcome
  
 ### Analysis of Outcomes Based on Launch Date
 Theater Outcomes vs Launch Date
-
-
+we have to be more specific with our searches to help Louise plan her campaign. We used pivot chart and filtered the chart by “Theater” we can see that May is the best month to start a successful Kickstarter campaigns compared to the other months. 
  <img width="1157" alt="Theater_Outcomes_v_LaunchDate" src="https://user-images.githubusercontent.com/92646311/163236604-24aaee1c-9e2d-401a-9d81-bb3dc1c824e3.png">
 
 
 ### Analysis of Outcomes Based on Goals
+Three different columns were created Successful, canceled and failed and their coutcomes were calcluted and then converted them into percentages. The line graph represents that the less than $1,000 has 76% successfull rate and 24% least failure rate. 
 <img width="903" alt="Outcomes_V_Goals" src="https://user-images.githubusercontent.com/92646311/163267921-761d5e4e-7864-441d-a852-9f71926ab3a7.png">
 
 
 ### Challenges and Difficulties Encountered
+To analyze the Kickstarter campaign with various graphs and filters was hard. 
+
 
 ## Results
 
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
+-#What are two conclusions you can draw about the Outcomes based on Launch Date?
+1. May looks best month to start a Kickstarter campaing.
+2. In October, nothing is canceld, outcomes are either failed or successful.
 
-- What can you conclude about the Outcomes based on Goals?
+#- What can you conclude about the Outcomes based on Goals?
 
-- What are some limitations of this dataset?
+-# What are some limitations of this dataset?
 
-- What are some other possible tables and/or graphs that we could create?
+-# What are some other possible tables and/or graphs that we could create?
 
