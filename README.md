@@ -47,18 +47,19 @@ Three different columns were created Successful, canceled and failed and their c
 
 
 ### Challenges and Difficulties Encountered
-To analyze the Kickstarter campaign with various graphs and filters was hard. 
+Analyzing and visualizing the Kickstarter campaign with various graphs and filters was hard. 
 
 
 ## Results
 
--#What are two conclusions you can draw about the Outcomes based on Launch Date?
+- What are two conclusions you can draw about the Outcomes based on Launch Date?
 1. May looks best month to start a Kickstarter campaing.
-2. In October, nothing is canceld, outcomes are either failed or successful.
+2. In October,pretty much nothing is canceled, outcomes were either failed or successful.
 
-#- What can you conclude about the Outcomes based on Goals?
+- What can you conclude about the Outcomes based on Goals?
+From ranges $35,000 to $39,000 and from $40,000 to $44,999 the successful rate is better than other ranges excluded less than $1,000 range and $1,000 to $4,999.
 
--# What are some limitations of this dataset?
+- What are some limitations of this dataset?
 
--# What are some other possible tables and/or graphs that we could create?
+- What are some other possible tables and/or graphs that we could create?
 
