@@ -31,39 +31,47 @@ As we can conslude that "Theather" category had the most most successful outcome
   3.The pivot table and pivot chart based on overall outcomes of the “Launch Date”.
   We can see by looking at our line chart that the months of May and June both had a successful Kickstarter campaigns.Moreover, in January, June , July, and October all had the same number of failed Kickstarter campaigns launched.
   
-  <img width="1166" alt="Outcomes_LaunchDate" src="https://user-images.githubusercontent.com/92646311/163267842-24e69860-487f-4660-b854-ace7089e243e.png">
+<img width="1236" alt="Screen Shot 2022-04-16 at 3 15 29 PM" src="https://user-images.githubusercontent.com/92646311/163688478-ca3c5813-92cb-409f-b1d7-49acb0257c8b.png">
 
 
  
 ### Analysis of Outcomes Based on Launch Date
 Theater Outcomes vs Launch Date
-we have to be more specific with our searches to help Louise plan her campaign. We used pivot chart, filtered the chart by “Theater” we can see that May is the best month to start a successful Kickstarter campaigns as compared to the other months. 
-<img width="1236" alt="Screen Shot 2022-04-16 at 3 15 29 PM" src="https://user-images.githubusercontent.com/92646311/163688478-ca3c5813-92cb-409f-b1d7-49acb0257c8b.png">
+we have to be more specific with our searches to help Louise plan her campaign. We used pivot chart, filtered the chart by “Theater” we can see that May is the best month to start a successful Kickstarter campaigns as compared to the other months.
+
+![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/92646311/163688569-50e11876-4712-4251-b670-3f892f231ae9.png)
+
 
 
 
 ### Analysis of Outcomes Based on Goals
 For Goals analysis,three different columns were created Successful, canceled and failed. we used advanced formulas,CountIFS() function, Sum(), and logical Operators. Their coutcomes were calcluted and then converted them into percentages. The line graph represents that the less than $1,000  goal range has 76% successfull rate and 24% least failure rate. 
+
 <img width="903" alt="Outcomes_V_Goals" src="https://user-images.githubusercontent.com/92646311/163267921-761d5e4e-7864-441d-a852-9f71926ab3a7.png">
 
 
 ### Challenges and Difficulties Encountered
-Analyzing and visualizing the Kickstarter campaigns with various graphs and filters was hard. 
 
+It was hard to analyze and visualize the Kickstarter campaigns dataset with various graphs. It took time to apply the multiple filters and functions.
 
 ## Results
 
- ######What are two conclusions you can draw about the Outcomes based on Launch Date?
+- What are two conclusions you can draw about the Outcomes based on Launch Date?
+
 1. May looks best month to start a Kickstarter campaing.
 2. In October,pretty much nothing is canceled, outcomes were either failed or successful.
 
- ######What can you conclude about the Outcomes based on Goals?
-Higher goal ranges from $45,000 to over $50,000 have more chances of failing. 
+- What can you conclude about the Outcomes based on Goals?
+
+Higher goals ranging from $45,000 to over $50,000 have more chances of failing. Whereas goals going below $4,999 had the most successful outcome.
 
 
- ######What are some limitations of this dataset?
+What are some limitations of this dataset?
 
-The cities names should also be included in Kickstarter campaign dataset. It would help to 
-analyse which city is better for a Play to raise money.
-######What are some other possible tables and/or graphs that we could create?
-We can perform statistical analysis based on the outcomes of Goal and Pledge columns, successful VS failed.Also, we can also uncover the campaign length. We can create box plots, area graph and scatter graph.
+1. How long the campaigns were active to achieve their goals and remained live until the deadline.
+2. Secondly, It would be helpful if the cities' names should also be included in the Kickstarter campaigns dataset. It would help to analyze which city performed well to raise the most money. 
+3. Any marketing Information outside of the platform If the campaign was marketed.
+
+- What are some other possible tables and/or graphs that we could create?
+
+We can perform statistical analysis based on the outcomes of the Goal and Pledge columns, successful VS failed. Also, we can uncover the campaign length. We can create box plots, area graph, and scatter graph.
