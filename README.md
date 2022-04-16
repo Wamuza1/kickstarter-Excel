@@ -38,7 +38,8 @@ As we can conslude that "Theather" category had the most most successful outcome
 ### Analysis of Outcomes Based on Launch Date
 Theater Outcomes vs Launch Date
 we have to be more specific with our searches to help Louise plan her campaign. We used pivot chart, filtered the chart by “Theater” we can see that May is the best month to start a successful Kickstarter campaigns as compared to the other months. 
- <img width="1157" alt="Theater_Outcomes_v_LaunchDate" src="https://user-images.githubusercontent.com/92646311/163236604-24aaee1c-9e2d-401a-9d81-bb3dc1c824e3.png">
+<img width="1236" alt="Screen Shot 2022-04-16 at 3 15 29 PM" src="https://user-images.githubusercontent.com/92646311/163688478-ca3c5813-92cb-409f-b1d7-49acb0257c8b.png">
+
 
 
 ### Analysis of Outcomes Based on Goals
@@ -52,16 +53,17 @@ Analyzing and visualizing the Kickstarter campaigns with various graphs and filt
 
 ## Results
 
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
+ ######What are two conclusions you can draw about the Outcomes based on Launch Date?
 1. May looks best month to start a Kickstarter campaing.
 2. In October,pretty much nothing is canceled, outcomes were either failed or successful.
 
-- What can you conclude about the Outcomes based on Goals?
+ ######What can you conclude about the Outcomes based on Goals?
 Higher goal ranges from $45,000 to over $50,000 have more chances of failing. 
 
 
-- What are some limitations of this dataset?
+ ######What are some limitations of this dataset?
+
 The cities names should also be included in Kickstarter campaign dataset. It would help to 
 analyse which city is better for a Play to raise money.
-- What are some other possible tables and/or graphs that we could create?
+######What are some other possible tables and/or graphs that we could create?
 We can perform statistical analysis based on the outcomes of Goal and Pledge columns, successful VS failed.Also, we can also uncover the campaign length. We can create box plots, area graph and scatter graph.
