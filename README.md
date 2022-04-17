@@ -58,21 +58,21 @@ It was hard to analyze and visualize the Kickstarter campaigns dataset with vari
 
 ## Results
 
-**- What are two conclusions you can draw about the Outcomes based on Launch Date?
+- What are two conclusions you can draw about the Outcomes based on Launch Date?
 
 1. May looks the best month to start a Kickstarter campaigns.
 2. In October,pretty much nothing is canceled, outcomes were either failed or successful.
 
-**- What can you conclude about the Outcomes based on Goals?
+- What can you conclude about the Outcomes based on Goals?
 
 Higher goals ranging from $45,000 to over $50,000 have more chances of failing. Whereas goals going below $4,999 had the most successful outcome.
 
-**- What are some limitations of this dataset?
+- What are some limitations of this dataset?
 
 1. How long the campaigns were active to achieve their goals and remained live until the deadline.
 2. Secondly, It would be helpful if the cities' names should also be included in the Kickstarter campaigns dataset. It would help to analyze which city performed well to raise the most money. 
 3. Any marketing Information If the campaign was marketed.
 
-**- What are some other possible tables and/or graphs that we could create?
+- What are some other possible tables and/or graphs that we could create?
 
 We can perform statistical analysis based on the outcomes of the Goal and Pledge columns, successful VS failed. Also, we can uncover the campaign length. We can create box plots, area graph, and scatter graph.
